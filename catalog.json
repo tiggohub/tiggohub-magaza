@@ -1,0 +1,314 @@
+{
+  "v": 1,
+  "generated": "2026-11-04T15:15:32Z",
+  "expires": "2027-11-04T15:15:32Z",
+  "minClient": "0.9.0",
+  "apps": [
+    {
+      "id": "smarttube",
+      "name": "SmartTube",
+      "desc": "YouTube izleme uygulaması, reklamsız, geniş ekrana uygun.",
+      "cat": "video",
+      "url": "https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_arm64-v8a.apk",
+      "abi": [
+        "arm64-v8a"
+      ],
+      "pkg": "org.smarttube.stable",
+      "verCode": 2458,
+      "ver": "32.68",
+      "minSdk": 17,
+      "targetSdk": 34,
+      "size": 26348686,
+      "sha256": "0a3d3f024eae66b8468f75fe85ab421169177f5ea1223a5d097d1dc9e1c84cf3",
+      "sig": "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a",
+      "web": "https://github.com/yuliskov/SmartTube",
+      "released": "2026-10-20",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/smarttube.png"
+    },
+    {
+      "id": "libretube",
+      "name": "LibreTube",
+      "cat": "video",
+      "abi": [
+        "universal"
+      ],
+      "desc": "YouTube'u reklamsız ve hesapsız izleme; açık kaynak, abonelikler cihazda tutulur.",
+      "url": "https://f-droid.org/repo/com.github.libretube_72.apk",
+      "web": "https://libretube.dev",
+      "pkg": "com.github.libretube",
+      "verCode": 72,
+      "ver": "32.1",
+      "minSdk": 26,
+      "targetSdk": 36,
+      "size": 9253519,
+      "sha256": "792b1e37e7bd6a26d8da1c826a68677465c333633cb2198224cc96c84257d615",
+      "sig": "a86631e8cc555838e8dfc29019fb0f7dac333ef1cda1139c424d1a08d68a030b",
+      "released": "2026-08-23",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/libretube.png"
+    },
+    {
+      "id": "newpipe",
+      "name": "NewPipe",
+      "desc": "Hafif YouTube istemcisi, arka planda müzik ve video.",
+      "cat": "video",
+      "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk",
+      "pkg": "org.schabi.newpipe",
+      "verCode": 1015,
+      "ver": "0.29.1",
+      "minSdk": 23,
+      "targetSdk": 35,
+      "size": 11507122,
+      "sha256": "18447bfb1e06d113edc88df93f471827280de06f6f3d4dc42f56f28b9c1bab79",
+      "sig": "cb84069bd68116bafae5ee4ee5b08a567aa6d898404e7cb12f9e756df5cf5cab",
+      "web": "https://newpipe.net",
+      "released": "2026-08-15",
+      "abi": [
+        "universal"
+      ],
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/newpipe.png"
+    },
+    {
+      "id": "revanced",
+      "name": "ReVanced Manager",
+      "cat": "video",
+      "abi": [
+        "arm64-v8a"
+      ],
+      "desc": "YouTube'u reklamsız ReVanced sürümüne çeviren resmi araç; YouTube APK'sını Aurora Store'dan alıp yamalar.",
+      "url": "https://github.com/ReVanced/revanced-manager/releases/download/v2.6.0/revanced-manager-2.6.0.apk",
+      "pkg": "app.revanced.manager.flutter",
+      "verCode": 200600099,
+      "ver": "2.6.0",
+      "minSdk": 26,
+      "targetSdk": 36,
+      "size": 46860298,
+      "sha256": "cba4c461553ea74eb25a7b2e1842419c7f4f40adc619b10d518c114204b7e846",
+      "sig": "b6362c6ea7888efd15c0800f480786ad0f5b133b4f84e12d46afba5f9eac1223",
+      "web": "https://revanced.app",
+      "released": "2026-04-26",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/revanced.png"
+    },
+    {
+      "id": "vlc",
+      "name": "VLC",
+      "desc": "Her biçimi oynatan video ve müzik oynatıcı, USB bellekten izleme.",
+      "cat": "video",
+      "url": "https://f-droid.org/repo/org.videolan.vlc_13070208.apk",
+      "pkg": "org.videolan.vlc",
+      "verCode": 13070208,
+      "ver": "3.7.2",
+      "minSdk": 17,
+      "targetSdk": 36,
+      "size": 51460280,
+      "sha256": "727693d59c4d678c046386812a103209a25423460c9d22e38e12460f12402ab6",
+      "sig": "80535be61eedb9a03b0476a6f493d496c3498770404339ea7a8000f5e61d22c0",
+      "web": "https://www.videolan.org",
+      "released": "2026-10-16",
+      "abi": [
+        "universal"
+      ],
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/vlc.png"
+    },
+    {
+      "id": "spotube",
+      "name": "Spotube",
+      "desc": "Spotify çalma listelerini dinleme istemcisi, açık kaynak.",
+      "cat": "music",
+      "url": "https://github.com/team-spotube/spotube/releases/download/v5.1.2/Spotube-android-all-arch.apk",
+      "pkg": "oss.krtirtho.spotube",
+      "verCode": 45,
+      "ver": "5.1.2",
+      "minSdk": 24,
+      "targetSdk": 35,
+      "size": 128388471,
+      "sha256": "20de38abd2eea0c0998174c8a34b324f4a9531665110f67176257e7ecc5bf0fe",
+      "sig": "38da7c142790c446afa35024d58bdcfd572bb73f83d338184dea02eac4344711",
+      "web": "https://spotube.krtirtho.dev",
+      "released": "2026-06-05",
+      "abi": [
+        "universal"
+      ],
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/spotube.png"
+    },
+    {
+      "id": "innertune",
+      "name": "InnerTune",
+      "cat": "music",
+      "abi": [
+        "universal"
+      ],
+      "desc": "YouTube Music'i reklamsız, hesapsız dinleme; çevrimdışı indirme ve şarkı sözleri.",
+      "url": "https://f-droid.org/repo/com.zionhuang.music_26.apk",
+      "web": "https://github.com/z-huang/InnerTune",
+      "pkg": "com.zionhuang.music",
+      "verCode": 26,
+      "ver": "0.5.10",
+      "minSdk": 24,
+      "targetSdk": 35,
+      "size": 6853334,
+      "sha256": "e30facf30e4755c4d3efb33a21f4412cd87e681608920628a6e46ecdc02fff94",
+      "sig": "5d55f9086e9543ee4d9e5f50bd60595ed4e9ac842de334fde900f3c616e32af2",
+      "released": "2024-09-12",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/innertune.png"
+    },
+    {
+      "id": "antennapod",
+      "name": "AntennaPod",
+      "desc": "Podcast dinleme ve indirme uygulaması.",
+      "cat": "music",
+      "url": "https://f-droid.org/repo/de.danoeh.antennapod_3120395.apk",
+      "pkg": "de.danoeh.antennapod",
+      "verCode": 3120395,
+      "ver": "3.12.3",
+      "minSdk": 23,
+      "targetSdk": 36,
+      "size": 17758020,
+      "sha256": "6e79f28f69cef1a8b2e4f5f88c9c3cf3c3d7c51356f01394ac23b0dc5d56a00b",
+      "sig": "179430565a4a04bfe7827483243099bd10870410800cd7c4c7b48d8d3226df55",
+      "web": "https://antennapod.org",
+      "released": "2026-10-15",
+      "abi": [
+        "universal"
+      ],
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/antennapod.png"
+    },
+    {
+      "id": "radiodroid",
+      "name": "RadioDroid",
+      "desc": "Binlerce internet radyosu, ülke ve türe göre arama.",
+      "cat": "music",
+      "url": "https://f-droid.org/repo/net.programmierecke.radiodroid2_96.apk",
+      "pkg": "net.programmierecke.radiodroid2",
+      "verCode": 96,
+      "ver": "0.86",
+      "minSdk": 16,
+      "targetSdk": 33,
+      "size": 10386877,
+      "sha256": "b13088ef0c3a9f12953f82b2a75e5c9d2fdb497dd69c6952240217f7315a779a",
+      "sig": "4ce15d9ae4fe886c77b4cb0e3d6b3cc1f618bebb64b165ab4ebc0bdf62f7747d",
+      "web": "https://github.com/segler-alex/RadioDroid",
+      "released": "2023-10-04",
+      "abi": [
+        "universal"
+      ],
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/radiodroid.png"
+    },
+    {
+      "id": "organicmaps",
+      "name": "Organic Maps",
+      "desc": "İnternetsiz çalışan harita ve navigasyon, Türkiye haritasını indirip kullanırsın.",
+      "cat": "nav",
+      "url": "https://github.com/organicmaps/organicmaps/releases/download/2026.09.29-32-android/OrganicMaps-26092932-web-release.apk",
+      "pkg": "app.organicmaps.web",
+      "verCode": 26092932,
+      "ver": "2026.09.29-32-Web",
+      "minSdk": 21,
+      "targetSdk": 36,
+      "size": 63888223,
+      "sha256": "d7dbdfc3cbfdbcce6d437f11147f2cd15384c03052d2b4594fd8c1c7777dd497",
+      "sig": "b9c7ae79a5a90270df08a132e536b9c666f5bef1f59b304fcecf8687865e4b5b",
+      "web": "https://organicmaps.app",
+      "released": "2026-09-29",
+      "abi": [
+        "universal"
+      ],
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/organicmaps.png"
+    },
+    {
+      "id": "osmand",
+      "name": "OsmAnd",
+      "cat": "nav",
+      "abi": [
+        "universal"
+      ],
+      "desc": "Çevrimdışı navigasyon; Türkiye haritası uygulama içinden indirilir, sesli yönlendirme ve hız limiti.",
+      "url": "https://f-droid.org/repo/net.osmand.plus_541003.apk",
+      "web": "https://osmand.net",
+      "pkg": "net.osmand.plus",
+      "verCode": 541003,
+      "ver": "5.4.10",
+      "minSdk": 24,
+      "targetSdk": 36,
+      "size": 161855613,
+      "sha256": "ca05d8f4ec364f84bde1946738e898abfb392234905eef1dc0ec597d4580b112",
+      "sig": "38294eaac95c3bb5a994692cd7758f8bcdbffb40819af6e806eb7fe482324dcd",
+      "released": "2026-10-12",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/osmand.png"
+    },
+    {
+      "id": "materialfiles",
+      "name": "Material Files",
+      "desc": "Dosya yöneticisi, USB belleği ve kayıtları kolayca gezersin.",
+      "cat": "tools",
+      "url": "https://f-droid.org/repo/me.zhanghai.android.files_40.apk",
+      "pkg": "me.zhanghai.android.files",
+      "verCode": 40,
+      "ver": "1.7.5",
+      "minSdk": 23,
+      "targetSdk": 36,
+      "size": 10944578,
+      "sha256": "2fe900bf43d725b655008d438f5ca46d0da0f301e3784403b5b96c3fc2df6e8a",
+      "sig": "9c22a742fa200c85bafbc9924a02ddc8f3a0b975d4d7b5a8da21d7cf34ce2b20",
+      "web": "https://github.com/zhanghai/MaterialFiles",
+      "released": "2026-09-22",
+      "abi": [
+        "universal"
+      ],
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/materialfiles.png"
+    },
+    {
+      "id": "localsend",
+      "name": "LocalSend",
+      "cat": "tools",
+      "abi": [
+        "universal"
+      ],
+      "desc": "Telefondan araca aynı Wi-Fi üzerinden dosya gönderme (video, APK, müzik); internet gerekmez.",
+      "url": "https://f-droid.org/repo/org.localsend.localsend_app_643.apk",
+      "web": "https://localsend.org",
+      "pkg": "org.localsend.localsend_app",
+      "verCode": 643,
+      "ver": "1.18.2",
+      "minSdk": 24,
+      "targetSdk": 37,
+      "size": 46558706,
+      "sha256": "82ec3568fba2aa5295b9aae8b76f701d7a4703d86b9f8bad749472038fbaeab3",
+      "sig": "3220c353a73cfbd0c2f3052471c445324cf452bcba26de1c473a52fe5c44e1d6",
+      "released": "2026-08-26",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/localsend.png"
+    },
+    {
+      "id": "fennec",
+      "name": "Fennec",
+      "cat": "tools",
+      "abi": [
+        "universal"
+      ],
+      "desc": "Firefox'un açık kaynak sürümü; web tarayıcı, eklenti (reklam engelleme) destekli.",
+      "url": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_1590020.apk",
+      "web": "https://f-droid.org/packages/org.mozilla.fennec_fdroid/",
+      "pkg": "org.mozilla.fennec_fdroid",
+      "verCode": 1590020,
+      "ver": "159.0.0",
+      "minSdk": 26,
+      "targetSdk": 37,
+      "size": 128189228,
+      "sha256": "a1bbb21a1330cd08e48e8bf1220a7412c968b1bf32fbd029c7d771728ba73a32",
+      "sig": "06665358efd8ba05be236a47a12cb0958d7d75dd939d77c2b31f5398537ebdc5",
+      "released": "2026-10-31",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/fennec.png"
+    }
+  ],
+  "faceModel": {
+    "id": "arcface_r100_int8",
+    "ver": "1.1",
+    "size": 65879016,
+    "sha256": "9356083daafef598e1c57ef723d033d78dddb08fc59caf4eeed835429eab657c",
+    "url": "https://github.com/tiggohub/tiggohub-magaza/releases/download/facepack-v1/arcface_r100_int8.onnx",
+    "dim": 512,
+    "match": 0.4,
+    "margin": 0.08,
+    "learn": 0.5,
+    "note": "ArcFace LResNet100E-IR (ONNX Model Zoo, Apache-2.0), int8. Kurulunca yüzler yeniden kaydedilir."
+  }
+}
