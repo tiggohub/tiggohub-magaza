@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generated": "2026-11-04T22:31:48Z",
-  "expires": "2027-11-04T22:31:48Z",
+  "generated": "2026-11-04T22:47:48Z",
+  "expires": "2027-11-04T22:47:48Z",
   "minClient": "0.9.0",
   "apps": [
     {
@@ -45,27 +45,6 @@
       "sha256": "1a446b2ebdf9a520440428414143abbcfacc56e10213b8d3bb81afac6247306a",
       "sig": "aca405ded8b25cb2e8c6da69425d2b4307d087c1276fc06ad5942731ccc51dba",
       "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/yandexmaps.png"
-    },
-    {
-      "id": "osmand",
-      "name": "OsmAnd",
-      "cat": "nav",
-      "abi": [
-        "universal"
-      ],
-      "desc": "Çevrimdışı navigasyon; Türkiye haritası uygulama içinden indirilir, sesli yönlendirme ve hız limiti.",
-      "url": "https://f-droid.org/repo/net.osmand.plus_541003.apk",
-      "web": "https://osmand.net",
-      "pkg": "net.osmand.plus",
-      "verCode": 541003,
-      "ver": "5.4.10",
-      "minSdk": 24,
-      "targetSdk": 36,
-      "size": 161855613,
-      "sha256": "ca05d8f4ec364f84bde1946738e898abfb392234905eef1dc0ec597d4580b112",
-      "sig": "38294eaac95c3bb5a994692cd7758f8bcdbffb40819af6e806eb7fe482324dcd",
-      "released": "2026-10-12",
-      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/osmand.png"
     },
     {
       "id": "smarttube",
@@ -255,27 +234,6 @@
         "universal"
       ],
       "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/radiodroid.png"
-    },
-    {
-      "id": "organicmaps",
-      "name": "Organic Maps",
-      "desc": "İnternetsiz çalışan harita ve navigasyon, Türkiye haritasını indirip kullanırsın.",
-      "cat": "nav",
-      "url": "https://github.com/organicmaps/organicmaps/releases/download/2026.09.29-32-android/OrganicMaps-26092932-web-release.apk",
-      "pkg": "app.organicmaps.web",
-      "verCode": 26092932,
-      "ver": "2026.09.29-32-Web",
-      "minSdk": 21,
-      "targetSdk": 36,
-      "size": 63888223,
-      "sha256": "d7dbdfc3cbfdbcce6d437f11147f2cd15384c03052d2b4594fd8c1c7777dd497",
-      "sig": "b9c7ae79a5a90270df08a132e536b9c666f5bef1f59b304fcecf8687865e4b5b",
-      "web": "https://organicmaps.app",
-      "released": "2026-09-29",
-      "abi": [
-        "universal"
-      ],
-      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/organicmaps.png"
     },
     {
       "id": "materialfiles",
