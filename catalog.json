@@ -1,9 +1,72 @@
 {
   "v": 1,
-  "generated": "2026-11-04T15:15:32Z",
-  "expires": "2027-11-04T15:15:32Z",
+  "generated": "2026-11-04T22:31:48Z",
+  "expires": "2027-11-04T22:31:48Z",
   "minClient": "0.9.0",
   "apps": [
+    {
+      "id": "yandexnavi",
+      "name": "Yandex Navigator",
+      "cat": "nav",
+      "abi": [
+        "universal"
+      ],
+      "desc": "Sesli yönlendirme, trafik ve hız kamerası uyarıları; sürücü göstergesinde de kullanılabilir.",
+      "url": "https://static.rustore.ru/2026/10/23/ad/3f86fd3a-4e87-4944-aac4-62ff74ba5501.apk",
+      "web": "https://yandex.com/navi",
+      "released": "2026-11-05",
+      "pkg": "ru.yandex.yandexnavi",
+      "verCode": 739735800,
+      "ver": "31.1.4",
+      "minSdk": 26,
+      "targetSdk": 36,
+      "size": 311581124,
+      "sha256": "50de0480dbe8ac42bc9cdf70afb7ce5424cc7ffe8940d25d5ef5298ed347b11a",
+      "sig": "aca405ded8b25cb2e8c6da69425d2b4307d087c1276fc06ad5942731ccc51dba",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/yandexnavi.png"
+    },
+    {
+      "id": "yandexmaps",
+      "name": "Yandex Haritalar",
+      "cat": "nav",
+      "abi": [
+        "universal"
+      ],
+      "desc": "Rota, trafik ve ayrıntılı harita; sürücü göstergesinde de kullanılabilir.",
+      "url": "https://static.rustore.ru/2026/10/8/4e/e5b9832f-96a9-4473-b27b-5f72ebf46309.apk",
+      "web": "https://yandex.com/maps",
+      "released": "2026-11-05",
+      "pkg": "ru.yandex.yandexmaps",
+      "verCode": 739706910,
+      "ver": "31.1.3",
+      "minSdk": 26,
+      "targetSdk": 36,
+      "size": 360291840,
+      "sha256": "1a446b2ebdf9a520440428414143abbcfacc56e10213b8d3bb81afac6247306a",
+      "sig": "aca405ded8b25cb2e8c6da69425d2b4307d087c1276fc06ad5942731ccc51dba",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/yandexmaps.png"
+    },
+    {
+      "id": "osmand",
+      "name": "OsmAnd",
+      "cat": "nav",
+      "abi": [
+        "universal"
+      ],
+      "desc": "Çevrimdışı navigasyon; Türkiye haritası uygulama içinden indirilir, sesli yönlendirme ve hız limiti.",
+      "url": "https://f-droid.org/repo/net.osmand.plus_541003.apk",
+      "web": "https://osmand.net",
+      "pkg": "net.osmand.plus",
+      "verCode": 541003,
+      "ver": "5.4.10",
+      "minSdk": 24,
+      "targetSdk": 36,
+      "size": 161855613,
+      "sha256": "ca05d8f4ec364f84bde1946738e898abfb392234905eef1dc0ec597d4580b112",
+      "sig": "38294eaac95c3bb5a994692cd7758f8bcdbffb40819af6e806eb7fe482324dcd",
+      "released": "2026-10-12",
+      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/osmand.png"
+    },
     {
       "id": "smarttube",
       "name": "SmartTube",
@@ -213,27 +276,6 @@
         "universal"
       ],
       "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/organicmaps.png"
-    },
-    {
-      "id": "osmand",
-      "name": "OsmAnd",
-      "cat": "nav",
-      "abi": [
-        "universal"
-      ],
-      "desc": "Çevrimdışı navigasyon; Türkiye haritası uygulama içinden indirilir, sesli yönlendirme ve hız limiti.",
-      "url": "https://f-droid.org/repo/net.osmand.plus_541003.apk",
-      "web": "https://osmand.net",
-      "pkg": "net.osmand.plus",
-      "verCode": 541003,
-      "ver": "5.4.10",
-      "minSdk": 24,
-      "targetSdk": 36,
-      "size": 161855613,
-      "sha256": "ca05d8f4ec364f84bde1946738e898abfb392234905eef1dc0ec597d4580b112",
-      "sig": "38294eaac95c3bb5a994692cd7758f8bcdbffb40819af6e806eb7fe482324dcd",
-      "released": "2026-10-12",
-      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/osmand.png"
     },
     {
       "id": "materialfiles",
