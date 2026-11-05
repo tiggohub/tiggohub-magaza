@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generated": "2026-11-05T09:37:59Z",
-  "expires": "2027-11-05T09:37:59Z",
+  "generated": "2026-11-05T11:50:19Z",
+  "expires": "2027-11-05T11:50:19Z",
   "minClient": "0.9.0",
   "apps": [
     {
@@ -47,24 +47,22 @@
       "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/yandexmaps.png"
     },
     {
-      "id": "newpipe",
-      "name": "NewPipe",
-      "desc": "Hafif YouTube istemcisi, arka planda müzik ve video.",
+      "id": "pipepipe",
+      "name": "PipePipe",
+      "desc": "YouTube istemcisi, reklamsiz, bolum atlama ve altyazi filtresi destekli.",
       "cat": "video",
-      "url": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.29.1/NewPipe_v0.29.1.apk",
-      "pkg": "org.schabi.newpipe",
-      "verCode": 1015,
-      "ver": "0.29.1",
+      "url": "https://github.com/InfinityLoop1308/PipePipe/releases/download/v5.5.0/PipePipe_5.5.0-arm64-v8a-release.apk",
+      "pkg": "InfinityLoop1309.NewPipeEnhanced",
+      "verCode": 111004,
+      "ver": "5.5.0",
       "minSdk": 23,
-      "targetSdk": 35,
-      "size": 11507122,
-      "sha256": "18447bfb1e06d113edc88df93f471827280de06f6f3d4dc42f56f28b9c1bab79",
-      "sig": "cb84069bd68116bafae5ee4ee5b08a567aa6d898404e7cb12f9e756df5cf5cab",
+      "targetSdk": 36,
+      "size": 32604824,
+      "sha256": "dfac608d4802b461252550a0485f779a12fd198f18dce77afa90cd441568f06f",
+      "sig": "dec73429ce2563275f5ed19825e44652b32b363a46f38bdff9ad6dcde4842d88",
       "web": "https://newpipe.net",
       "released": "2026-08-15",
-      "abi": [
-        "universal"
-      ],
+      "abi": "arm64-v8a",
       "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/newpipe.png"
     },
     {
