@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "generated": "2026-11-04T22:47:48Z",
-  "expires": "2027-11-04T22:47:48Z",
+  "generated": "2026-11-05T09:37:59Z",
+  "expires": "2027-11-05T09:37:59Z",
   "minClient": "0.9.0",
   "apps": [
     {
@@ -47,48 +47,6 @@
       "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/yandexmaps.png"
     },
     {
-      "id": "smarttube",
-      "name": "SmartTube",
-      "desc": "YouTube izleme uygulaması, reklamsız, geniş ekrana uygun.",
-      "cat": "video",
-      "url": "https://github.com/yuliskov/SmartTube/releases/download/32.68s/SmartTube_stable_32.68_arm64-v8a.apk",
-      "abi": [
-        "arm64-v8a"
-      ],
-      "pkg": "org.smarttube.stable",
-      "verCode": 2458,
-      "ver": "32.68",
-      "minSdk": 17,
-      "targetSdk": 34,
-      "size": 26348686,
-      "sha256": "0a3d3f024eae66b8468f75fe85ab421169177f5ea1223a5d097d1dc9e1c84cf3",
-      "sig": "109735aa24fe85e2e1623ebb3b1ecc4bf4263f4c6374e4411d646bfa2eda482a",
-      "web": "https://github.com/yuliskov/SmartTube",
-      "released": "2026-10-20",
-      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/smarttube.png"
-    },
-    {
-      "id": "libretube",
-      "name": "LibreTube",
-      "cat": "video",
-      "abi": [
-        "universal"
-      ],
-      "desc": "YouTube'u reklamsız ve hesapsız izleme; açık kaynak, abonelikler cihazda tutulur.",
-      "url": "https://f-droid.org/repo/com.github.libretube_72.apk",
-      "web": "https://libretube.dev",
-      "pkg": "com.github.libretube",
-      "verCode": 72,
-      "ver": "32.1",
-      "minSdk": 26,
-      "targetSdk": 36,
-      "size": 9253519,
-      "sha256": "792b1e37e7bd6a26d8da1c826a68677465c333633cb2198224cc96c84257d615",
-      "sig": "a86631e8cc555838e8dfc29019fb0f7dac333ef1cda1139c424d1a08d68a030b",
-      "released": "2026-08-23",
-      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/libretube.png"
-    },
-    {
       "id": "newpipe",
       "name": "NewPipe",
       "desc": "Hafif YouTube istemcisi, arka planda müzik ve video.",
@@ -108,27 +66,6 @@
         "universal"
       ],
       "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/newpipe.png"
-    },
-    {
-      "id": "revanced",
-      "name": "ReVanced Manager",
-      "cat": "video",
-      "abi": [
-        "arm64-v8a"
-      ],
-      "desc": "YouTube'u reklamsız ReVanced sürümüne çeviren resmi araç; YouTube APK'sını Aurora Store'dan alıp yamalar.",
-      "url": "https://github.com/ReVanced/revanced-manager/releases/download/v2.6.0/revanced-manager-2.6.0.apk",
-      "pkg": "app.revanced.manager.flutter",
-      "verCode": 200600099,
-      "ver": "2.6.0",
-      "minSdk": 26,
-      "targetSdk": 36,
-      "size": 46860298,
-      "sha256": "cba4c461553ea74eb25a7b2e1842419c7f4f40adc619b10d518c114204b7e846",
-      "sig": "b6362c6ea7888efd15c0800f480786ad0f5b133b4f84e12d46afba5f9eac1223",
-      "web": "https://revanced.app",
-      "released": "2026-04-26",
-      "icon": "https://raw.githubusercontent.com/tiggohub/tiggohub-magaza/main/icons/revanced.png"
     },
     {
       "id": "vlc",
